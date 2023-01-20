@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sharon
 - 👀 I’m interested in learning, developing and growing.
-- 🌱 I’m currently learning Coding
+- 👩‍💻 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on IT project
 - 📫 How to reach me by GitHub 
 
